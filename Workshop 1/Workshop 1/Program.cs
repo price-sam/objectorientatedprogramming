@@ -37,6 +37,8 @@ namespace Workshop_1
             }
             Console.WriteLine($"The sum of even numbers between 0 and 100 is {sum}");
 
+            string targetString = "School of Computer Science";
+            string noSpacesString = targetString.Replace(' ' , '');
 
 
         }
