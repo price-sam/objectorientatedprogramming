@@ -43,7 +43,7 @@ namespace Algorithms_and_Complexity_Workshop_2
             }
 
             int[] array = {0,2,5,3,7,8};
-            Console.WriteLine(add_them(5, array));
+            Console.WriteLine(add_them(5, array)); 
         }
     }
 }
